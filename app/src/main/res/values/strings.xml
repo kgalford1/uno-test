@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Uno</string>
+    <string name="computer_text_0">The computer has&#160;</string>
+    <string name="computer_text_1_plural">&#160;cards.</string>
+    <string name="computer_text_1_single">&#160;card.</string>
+    <string name="computer_text_number">0</string>
+    <string name="new_game">New Game</string>
+</resources>

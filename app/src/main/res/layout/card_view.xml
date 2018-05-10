@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/table_card_width"
+    android:layout_height="@dimen/table_card_height"
+    android:layout_margin="5dp"
+    android:layout_weight="1"
+    android:clickable="true"
+    android:focusable="true"
+    android:gravity="center"
+    android:onClick="humanHandClick"
+    android:textColor="@color/black"
+    android:textSize="@dimen/card_text_size" />
