@@ -135,7 +135,7 @@ public class MainActivity extends AppCompatActivity {
             Toast toast = Toast.makeText(this, "Computer wins!", Toast.LENGTH_LONG);
             toast.show();
         } else if (game.getHuman().hasWon()) {
-            Toast toast = Toast.makeText(this, "You win!", Toast.LENGTH_LONG);
+            Toast toast = Toast.makeText(this, "You win, you the best!", Toast.LENGTH_LONG);
             toast.show();
         }
     }
